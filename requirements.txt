@@ -1,0 +1,6 @@
+jinja2
+#googlemaps
+requests
+beautifulsoup4
+#toco
+sneks
